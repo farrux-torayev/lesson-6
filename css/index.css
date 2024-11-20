@@ -1,0 +1,25 @@
+body {
+  background-image: url(/assets/image/hero\ image.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 200vh;
+}
+.title{
+  background-image: url(/assets/image/bg.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100vh;
+  /* height: 375px; */
+}
+.info{
+  background-image: url(/assets/image/bar-1869656_1920\ 2.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 200vh;
+}
+.gam{
+  background-image: url(/assets/image/Mask\ Group\ .png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 200vh;
+}
